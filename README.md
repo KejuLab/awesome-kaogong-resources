@@ -4,14 +4,14 @@
 
 | 项目          | 描述                                         | 地址                                              |
 | ------------- | -------------------------------------------- | ------------------------------------------------- |
-| developer2gwy |                                              | [直达](https://github.com/miss-mumu/developer2gwy) |
+| developer2gwy | 公考入门与备考、上岸后生活、心态与方法论     | [直达](https://github.com/miss-mumu/developer2gwy) |
 | xingcezhneti  | 按专题分类的16-26年行测真题，可以clone到本地 | [直达](https://github.com/ERRRC/xingcezhenti)      |
 
 ## Skills
 
-| 项目             | 描述 | 地址                                                         |
-| ---------------- | ---- | ------------------------------------------------------------ |
-| huasheng13-skill |      | [直达](https://github.com/WangJunqing-coder/huasheng13-skill) |
+| 项目             | 描述                                                        | 地址                                                         |
+| ---------------- | ----------------------------------------------------------- | ------------------------------------------------------------ |
+| huasheng13-skill | 基于花生十三公开教学体系、课程资料、历年真题整理得到的skill | [直达](https://github.com/WangJunqing-coder/huasheng13-skill) |
 
 ## Websites
 
