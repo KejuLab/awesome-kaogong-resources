@@ -2,16 +2,17 @@
 
 ## Knowledge
 
-| 项目          | 描述                                         | 地址                                              |
-| ------------- | -------------------------------------------- | ------------------------------------------------- |
-| developer2gwy | 公考入门与备考、上岸后生活、心态与方法论     | [直达](https://github.com/miss-mumu/developer2gwy) |
-| xingcezhneti  | 按专题分类的16-26年行测真题，可以clone到本地 | [直达](https://github.com/ERRRC/xingcezhenti)      |
+| 项目          | 描述                                                                                             | 地址                                              |
+| ------------- | ------------------------------------------------------------------------------------------------ | ------------------------------------------------- |
+| developer2gwy | 公考入门与备考、上岸后生活、心态与方法论。当然，主要还是基于自身体验，不具备时效性和客观正确性。 | [直达](https://github.com/miss-mumu/developer2gwy) |
+| xingcezhneti  | 按专题分类的16-26年行测真题，可以clone到本地                                                     | [直达](https://github.com/ERRRC/xingcezhenti)      |
 
 ## Skills
 
 | 项目             | 描述                                                        | 地址                                                         |
 | ---------------- | ----------------------------------------------------------- | ------------------------------------------------------------ |
 | huasheng13-skill | 基于花生十三公开教学体系、课程资料、历年真题整理得到的skill | [直达](https://github.com/WangJunqing-coder/huasheng13-skill) |
+| gongkao-material-ingest | 自研。把课程讲义 PDF、AI 总结 docx、写有手写作答的 PDF 转成结构化 markdown 与作答台账，能核对到每题选了/划掉了什么。脚本本地运行、不消耗 token；只适用于保留独立笔迹层的 PDF 导出 | [直达](https://github.com/KejuLab/gongkao-material-ingest-skill) |
 
 ## Websites
 
